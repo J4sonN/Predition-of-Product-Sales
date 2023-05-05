@@ -6,6 +6,23 @@ Quan Nguyen
 
 ## Original Data Source:
 
-Big Mart Sales Prediction:https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
+Big Mart Sales Prediction:https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/  
+
+There is 8523 rows, and 12 columns in this data
+
+## Data Dictionary
 
 ![data dictionary](https://user-images.githubusercontent.com/128573553/236410755-4ead1f60-5672-483d-bb8a-b46d48a8551c.png)
+
+# **After cleaning data, the following processes were perform:**
+## Exploratory Data Analysis
+
+## Explanatory Data Analysis
+
+## Machine Learning Using the Following Models:
+
+## Models Evaluated & Results
+
+## Recommendations
+
+

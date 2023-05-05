@@ -4,7 +4,7 @@ Quan Nguyen
 
 **The project will focus on developing a comprehensive sales prediction model specifically for food items that are sold at various stores. This predictive model will be designed to analyze and interpret a wide range of data, including sales history, customer preferences, product features, and store location data, among others. By harnessing the power of data analytics and machine learning techniques, the goal of this project is to provide the retailer with actionable insights into the properties of products and outlets that play crucial roles in driving sales.**
 
-##Original Data Source:
+## Original Data Source:
 
 Big Mart Sales Prediction:https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
 
